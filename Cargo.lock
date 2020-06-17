@@ -58,3 +58,12 @@ dependencies = [
  "async-trait",
  "bdk-macros",
  "bitcoin",
+ "getrandom",
+ "js-sys",
+ "log",
+ "miniscript",
+ "rand",
+ "serde",
+ "serde_json",
+ "tokio",
+]
