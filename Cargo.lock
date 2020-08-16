@@ -213,3 +213,12 @@ dependencies = [
  "serde_json",
  "thiserror",
 ]
+
+[[package]]
+name = "coinstr-wasm-example"
+version = "0.1.0"
+dependencies = [
+ "coinstr-core",
+ "wasm-bindgen-futures",
+ "wasm-logger",
+ "yew",
