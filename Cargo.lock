@@ -204,3 +204,12 @@ dependencies = [
 name = "coinstr-core"
 version = "0.1.0"
 source = "git+https://github.com/coinstr/coinstr?rev=7cd35279eb7dab5420373eefbc301cdac2f8cb53#7cd35279eb7dab5420373eefbc301cdac2f8cb53"
+dependencies = [
+ "bdk",
+ "keechain-core",
+ "log",
+ "nostr-sdk",
+ "serde",
+ "serde_json",
+ "thiserror",
+]
