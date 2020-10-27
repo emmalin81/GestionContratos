@@ -405,3 +405,9 @@ dependencies = [
  "futures-sink",
  "futures-task",
  "memchr",
+ "pin-project-lite",
+ "pin-utils",
+ "slab",
+]
+
+[[package]]
