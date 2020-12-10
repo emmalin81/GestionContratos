@@ -508,3 +508,11 @@ dependencies = [
  "serde",
  "serde-wasm-bindgen",
  "serde_urlencoded",
+ "thiserror",
+ "wasm-bindgen",
+ "web-sys",
+]
+
+[[package]]
+name = "gloo-net"
+version = "0.2.6"
