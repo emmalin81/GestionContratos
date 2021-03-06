@@ -670,3 +670,7 @@ dependencies = [
  "block-padding",
  "generic-array",
 ]
+
+[[package]]
+name = "instant"
+version = "0.1.12"
