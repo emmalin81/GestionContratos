@@ -709,3 +709,11 @@ dependencies = [
  "bip39",
  "bitcoin",
  "cbc",
+ "getrandom",
+ "nostr",
+ "rand_chacha",
+ "serde",
+ "serde_json",
+ "sysinfo",
+ "thiserror",
+]
