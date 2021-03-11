@@ -702,3 +702,10 @@ dependencies = [
 name = "keechain-core"
 version = "0.1.0"
 source = "git+https://github.com/yukibtc/keechain?rev=5397a1c3cedf119f15814450966dc2d3284f37dd#5397a1c3cedf119f15814450966dc2d3284f37dd"
+dependencies = [
+ "aes",
+ "base64 0.21.0",
+ "bdk",
+ "bip39",
+ "bitcoin",
+ "cbc",
