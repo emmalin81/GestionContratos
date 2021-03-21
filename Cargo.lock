@@ -772,3 +772,10 @@ dependencies = [
 
 [[package]]
 name = "nostr"
+version = "0.20.0"
+source = "git+https://github.com/rust-nostr/nostr?rev=920c2628d983ac8b70b04debbf2a7e28358cfc45#920c2628d983ac8b70b04debbf2a7e28358cfc45"
+dependencies = [
+ "aes",
+ "base64 0.21.0",
+ "bech32",
+ "bip39",
