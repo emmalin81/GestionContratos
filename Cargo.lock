@@ -786,3 +786,14 @@ dependencies = [
  "instant",
  "log",
  "secp256k1",
+ "serde",
+ "serde_json",
+ "thiserror",
+ "url",
+]
+
+[[package]]
+name = "nostr-sdk"
+version = "0.20.1"
+source = "git+https://github.com/rust-nostr/nostr?rev=920c2628d983ac8b70b04debbf2a7e28358cfc45#920c2628d983ac8b70b04debbf2a7e28358cfc45"
+dependencies = [
