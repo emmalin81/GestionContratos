@@ -878,3 +878,8 @@ dependencies = [
  "quote",
  "syn 1.0.105",
 ]
+
+[[package]]
+name = "pin-project-lite"
+version = "0.2.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
