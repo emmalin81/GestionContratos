@@ -927,3 +927,9 @@ dependencies = [
  "proc-macro-error-attr",
  "proc-macro2",
  "quote",
+ "syn 1.0.105",
+ "version_check",
+]
+
+[[package]]
+name = "proc-macro-error-attr"
