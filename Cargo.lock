@@ -967,3 +967,8 @@ dependencies = [
  "tokio-stream",
  "wasm-bindgen-futures",
 ]
+
+[[package]]
+name = "quote"
+version = "1.0.26"
+source = "registry+https://github.com/rust-lang/crates.io-index"
