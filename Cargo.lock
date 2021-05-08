@@ -1083,3 +1083,8 @@ dependencies = [
  "ring",
  "untrusted",
 ]
+
+[[package]]
+name = "secp256k1"
+version = "0.24.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
