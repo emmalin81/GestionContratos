@@ -1228,3 +1228,10 @@ dependencies = [
  "libc",
  "ntapi",
  "once_cell",
+ "rayon",
+ "winapi",
+]
+
+[[package]]
+name = "thiserror"
+version = "1.0.40"
