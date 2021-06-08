@@ -1341,3 +1341,9 @@ dependencies = [
  "rustls",
  "tokio",
  "tokio-rustls",
+ "tungstenite",
+ "webpki",
+ "webpki-roots",
+]
+
+[[package]]
