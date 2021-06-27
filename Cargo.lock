@@ -1517,3 +1517,5 @@ checksum = "2aff81306fcac3c7515ad4e177f521b5c9a15f2b08f4e32d823066102f35a5f6"
 dependencies = [
  "proc-macro2",
  "quote",
+ "syn 1.0.105",
+ "wasm-bindgen-backend",
