@@ -1510,3 +1510,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "wasm-bindgen-macro-support"
+version = "0.2.84"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "2aff81306fcac3c7515ad4e177f521b5c9a15f2b08f4e32d823066102f35a5f6"
+dependencies = [
+ "proc-macro2",
+ "quote",
