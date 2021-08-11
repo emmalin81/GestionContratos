@@ -1,0 +1,11 @@
+
+[package]
+name = "coinstr-wasm-example"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+license = "MIT"
+keywords = ["yew", "trunk"]
+categories = ["gui", "wasm", "web-programming"]
+
+[dependencies]
