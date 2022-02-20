@@ -21,3 +21,7 @@ rustup target add wasm32-unknown-unknown
 
 Now that we have our basics covered, it's time to install the star of the show: [Trunk].
 Simply run the following command to install it:
+
+```bash
+cargo install trunk wasm-bindgen-cli
+```
