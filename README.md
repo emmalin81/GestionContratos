@@ -25,3 +25,13 @@ Simply run the following command to install it:
 ```bash
 cargo install trunk wasm-bindgen-cli
 ```
+
+That's it, we're done!
+
+### Running
+
+```bash
+trunk serve
+```
+
+Rebuilds the app whenever a change is detected and runs a local server to host it.
