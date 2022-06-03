@@ -1,3 +1,3 @@
 use std::time::Duration;
 
-use co
+use coinstr_core
