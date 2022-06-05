@@ -1,3 +1,3 @@
 use std::time::Duration;
 
-use coinstr_core
+use coinstr_core::bitc
