@@ -6,4 +6,4 @@ use coinstr_core::CoinstrClient;
 use wasm_bindgen_futures::spawn_local;
 use yew::prelude::*;
 
-const 
+const BECH32_SK: 
