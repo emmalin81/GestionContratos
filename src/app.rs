@@ -6,4 +6,4 @@ use coinstr_core::CoinstrClient;
 use wasm_bindgen_futures::spawn_local;
 use yew::prelude::*;
 
-const BECH32_SK: &str = "nse
+const BECH32_SK: &str = "nsec18lkp320
