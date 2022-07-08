@@ -8,4 +8,4 @@ use yew::prelude::*;
 
 const BECH32_SK: &str = "nsec18lkp320pjm7n5eqhk3066uq9akermpffedqa3trn3n7a054h2ems37v3ar";
 const DEFAULT_RELAY: &str = "wss://relay.rip";
-const TIMEOUT: Option<Duration> = S
+const TIMEOUT: Option<Duration> = Some(Durat
