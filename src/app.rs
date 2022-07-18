@@ -10,4 +10,5 @@ const BECH32_SK: &str = "nsec18lkp320pjm7n5eqhk3066uq9akermpffedqa3trn3n7a054h2e
 const DEFAULT_RELAY: &str = "wss://relay.rip";
 const TIMEOUT: Option<Duration> = Some(Duration::from_secs(300));
 
-#[function_component(App
+#[function_component(App)]
+pub f
