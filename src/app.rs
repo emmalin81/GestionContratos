@@ -11,4 +11,5 @@ const DEFAULT_RELAY: &str = "wss://relay.rip";
 const TIMEOUT: Option<Duration> = Some(Duration::from_secs(300));
 
 #[function_component(App)]
-pub fn app() 
+pub fn app() -> Html {
+ 
