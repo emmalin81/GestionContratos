@@ -12,4 +12,4 @@ const TIMEOUT: Option<Duration> = Some(Duration::from_secs(300));
 
 #[function_component(App)]
 pub fn app() -> Html {
-    let is_ready = use_stat
+    let is_ready = use_state(|| fa
