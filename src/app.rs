@@ -16,4 +16,4 @@ pub fn app() -> Html {
     let policies = use_state(Vec::new);
 
     {
-        let is
+        let is_ready = is
