@@ -16,4 +16,5 @@ pub fn app() -> Html {
     let policies = use_state(Vec::new);
 
     {
-        let is_ready = is_ready.clone()
+        let is_ready = is_ready.clone();
+        
