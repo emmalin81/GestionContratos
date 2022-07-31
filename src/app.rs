@@ -17,4 +17,5 @@ pub fn app() -> Html {
 
     {
         let is_ready = is_ready.clone();
-        let policies = policies.
+        let policies = policies.clone();
+ 
