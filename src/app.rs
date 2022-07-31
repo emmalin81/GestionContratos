@@ -18,4 +18,4 @@ pub fn app() -> Html {
     {
         let is_ready = is_ready.clone();
         let policies = policies.clone();
-        use_eff
+        use_effect_with_d
