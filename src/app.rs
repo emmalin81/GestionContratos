@@ -20,4 +20,4 @@ pub fn app() -> Html {
         let policies = policies.clone();
         use_effect_with_deps(
             move |_| {
-                spa
+                spawn_loc
