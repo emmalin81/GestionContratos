@@ -20,4 +20,5 @@ pub fn app() -> Html {
         let policies = policies.clone();
         use_effect_with_deps(
             move |_| {
-                spawn_local(async m
+                spawn_local(async move {
+  
