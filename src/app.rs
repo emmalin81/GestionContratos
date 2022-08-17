@@ -21,4 +21,4 @@ pub fn app() -> Html {
         use_effect_with_deps(
             move |_| {
                 spawn_local(async move {
-                    let secret_key = Sec
+                    let secret_key = SecretKey::fro
