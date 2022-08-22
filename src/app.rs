@@ -22,4 +22,5 @@ pub fn app() -> Html {
             move |_| {
                 spawn_local(async move {
                     let secret_key = SecretKey::from_bech32(BECH32_SK).unwrap();
-                    let keys = Keys::new(secret_ke
+                    let keys = Keys::new(secret_key);
+          
