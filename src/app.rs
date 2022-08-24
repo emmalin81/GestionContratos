@@ -23,4 +23,5 @@ pub fn app() -> Html {
                 spawn_local(async move {
                     let secret_key = SecretKey::from_bech32(BECH32_SK).unwrap();
                     let keys = Keys::new(secret_key);
-                    let cli
+                    let client =
+      
