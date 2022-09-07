@@ -25,4 +25,4 @@ pub fn app() -> Html {
                     let keys = Keys::new(secret_key);
                     let client =
                         CoinstrClient::new(keys, vec![DEFAULT_RELAY.to_string()], Network::Testnet)
-                  
+                        
