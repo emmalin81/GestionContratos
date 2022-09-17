@@ -26,4 +26,4 @@ pub fn app() -> Html {
                     let client =
                         CoinstrClient::new(keys, vec![DEFAULT_RELAY.to_string()], Network::Testnet)
                             .await
-                          
+                            .unwra
