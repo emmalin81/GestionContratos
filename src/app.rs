@@ -27,4 +27,4 @@ pub fn app() -> Html {
                         CoinstrClient::new(keys, vec![DEFAULT_RELAY.to_string()], Network::Testnet)
                             .await
                             .unwrap();
-                    policies.set(client.get_
+                    policies.set(client.get_policies(TIME
