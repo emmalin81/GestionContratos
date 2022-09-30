@@ -28,4 +28,4 @@ pub fn app() -> Html {
                             .await
                             .unwrap();
                     policies.set(client.get_policies(TIMEOUT).await.unwrap());
-                    is_ready.s
+                    is_ready.set(true);
