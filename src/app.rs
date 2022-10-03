@@ -30,4 +30,5 @@ pub fn app() -> Html {
                     policies.set(client.get_policies(TIMEOUT).await.unwrap());
                     is_ready.set(true);
                 });
-                || 
+                || ()
+   
