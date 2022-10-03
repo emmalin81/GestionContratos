@@ -31,4 +31,4 @@ pub fn app() -> Html {
                     is_ready.set(true);
                 });
                 || ()
-   
+         
