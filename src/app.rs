@@ -37,4 +37,4 @@ pub fn app() -> Html {
     }
 
     html! {
-      
+        <main>
