@@ -34,4 +34,6 @@ pub fn app() -> Html {
             },
             (),
         );
-    
+    }
+
+    html
