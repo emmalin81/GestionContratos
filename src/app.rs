@@ -38,4 +38,4 @@ pub fn app() -> Html {
 
     html! {
         <main>
-            <h1>{ 
+            <h1>{ "Coinstr
