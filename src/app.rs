@@ -40,4 +40,5 @@ pub fn app() -> Html {
         <main>
             <h1>{ "Coinstr" }</h1>
             {
-                if *is_
+                if *is_ready {
+ 
