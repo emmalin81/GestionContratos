@@ -41,4 +41,4 @@ pub fn app() -> Html {
             <h1>{ "Coinstr" }</h1>
             {
                 if *is_ready {
-                    policies.iter().map(|(polic
+                    policies.iter().map(|(policy_id, pol
