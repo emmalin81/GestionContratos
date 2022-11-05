@@ -42,4 +42,4 @@ pub fn app() -> Html {
             {
                 if *is_ready {
                     policies.iter().map(|(policy_id, policy)| {
-                     
+                        htm
