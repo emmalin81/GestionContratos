@@ -44,4 +44,5 @@ pub fn app() -> Html {
                     policies.iter().map(|(policy_id, policy)| {
                         html! {
                             <div>
-                                <p> { "Policy" } 
+                                <p> { "Policy" } </p>
+ 
