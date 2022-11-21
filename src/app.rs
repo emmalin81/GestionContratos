@@ -45,4 +45,4 @@ pub fn app() -> Html {
                         html! {
                             <div>
                                 <p> { "Policy" } </p>
-                                <p> { 
+                                <p> { format!(
