@@ -45,4 +45,4 @@ pub fn app() -> Html {
                         html! {
                             <div>
                                 <p> { "Policy" } </p>
-                                <p> { format!("ID: {pol
+                                <p> { format!("ID: {policy_id}")
