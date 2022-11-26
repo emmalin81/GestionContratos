@@ -46,4 +46,4 @@ pub fn app() -> Html {
                             <div>
                                 <p> { "Policy" } </p>
                                 <p> { format!("ID: {policy_id}") } </p>
-                                <p> { format!
+                                <p> { format!("Name: {}"
