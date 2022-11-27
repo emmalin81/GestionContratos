@@ -46,4 +46,5 @@ pub fn app() -> Html {
                             <div>
                                 <p> { "Policy" } </p>
                                 <p> { format!("ID: {policy_id}") } </p>
-                                <p> { format!("Name: {}", policy.name.clone()) } <
+                                <p> { format!("Name: {}", policy.name.clone()) } </p>
+     
