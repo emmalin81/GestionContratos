@@ -51,4 +51,4 @@ pub fn app() -> Html {
                                 <p> { format!("Descriptor: {}", policy.descriptor) } </p>
                                 <hr />
                             </div>
-               
+                        
