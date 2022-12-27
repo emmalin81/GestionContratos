@@ -52,4 +52,5 @@ pub fn app() -> Html {
                                 <hr />
                             </div>
                         }
-                    }).collect::<Html>(
+                    }).collect::<Html>()
+  
