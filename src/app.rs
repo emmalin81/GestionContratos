@@ -53,4 +53,4 @@ pub fn app() -> Html {
                             </div>
                         }
                     }).collect::<Html>()
-  
+             
