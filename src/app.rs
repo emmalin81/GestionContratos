@@ -55,4 +55,4 @@ pub fn app() -> Html {
                     }).collect::<Html>()
                 } else {
                     html! {
-                        <p> { "Loading pol
+                        <p> { "Loading policies..." 
