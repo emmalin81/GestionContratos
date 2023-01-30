@@ -56,4 +56,4 @@ pub fn app() -> Html {
                 } else {
                     html! {
                         <p> { "Loading policies..." } </p>
-       
+                    
