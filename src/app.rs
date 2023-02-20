@@ -58,3 +58,4 @@ pub fn app() -> Html {
                         <p> { "Loading policies..." } </p>
                     }
                 }
+       
