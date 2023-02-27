@@ -59,3 +59,4 @@ pub fn app() -> Html {
                     }
                 }
             }
+      
