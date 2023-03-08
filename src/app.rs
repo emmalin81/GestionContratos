@@ -59,4 +59,6 @@ pub fn app() -> Html {
                     }
                 }
             }
-        </ma
+        </main>
+    }
+}
