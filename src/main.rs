@@ -1,3 +1,5 @@
 mod app;
 
-use app::A
+use app::App;
+
+fn main()
