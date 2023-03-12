@@ -4,4 +4,4 @@ use app::App;
 
 fn main() {
     // Init logger
-    wasm_logge
+    wasm_logger::
