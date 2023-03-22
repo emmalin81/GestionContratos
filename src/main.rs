@@ -6,4 +6,4 @@ fn main() {
     // Init logger
     wasm_logger::init(wasm_logger::Config::default());
 
-    // Start WA
+    // Start WASM ap
