@@ -7,4 +7,4 @@ fn main() {
     wasm_logger::init(wasm_logger::Config::default());
 
     // Start WASM app
-    yew::Renderer::<App>:
+    yew::Renderer::<App>::new().rend
